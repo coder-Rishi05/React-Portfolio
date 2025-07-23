@@ -4,6 +4,7 @@ import RightSlide from './Components/RightSide'
 import { personalData } from './Utils/data'
 import { aboutMe } from './Utils/data'
 
+
 function App() {
  return (
    <>
